@@ -22,7 +22,7 @@ This is a solution to the [Galleria slideshow site challenge on Frontend Mentor]
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://mona-front.github.io/GalleriaSlideshow/)
+- Live Site URL: [Add live site URL here]( https://mona-front.github.io/GalleriaSlideshow/)
 
 ## My process
 
